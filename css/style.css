@@ -67,8 +67,8 @@ div {
   background-color: #FFFF00;
   text-align: right;
   margin-left: 50px;
-  border-bottom: 3px solid;
-  border-left: 10px solid;
+  border-bottom: 3px solid #FFFFFF;
+  border-left: 10px solid #FFFFFF;
   border-right: initial;
   border-top: initial;
   color: #000000;
