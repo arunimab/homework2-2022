@@ -79,7 +79,7 @@ div {
 }
 
 .green {
-  background-color: #00D800;
+  background-color: #008500;
   text-align: left;
   margin-right: 50px;
   border-right: 10px solid;
@@ -89,8 +89,8 @@ div {
 }
 
 span {
-  text-decoration: underline;
   text-transform: uppercase;
+  text-decoration: underline;
   text-shadow: none;
 }
 
